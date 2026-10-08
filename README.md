@@ -18,7 +18,7 @@
 ## 🛠️ The Tech Arsenal
 
 ```text
-Languages           : Java, JavaScript, C, C++, SQL
+Languages           : Java, JavaScript, SQL
 Backend & Frameworks: Core Java, Advanced Java, Spring Boot, RESTful APIs, Hibernate, JDBC
 Frontend            : React, HTML5, CSS3
 Build & Management  : Maven, Git, GitHub
