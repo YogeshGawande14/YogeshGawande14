@@ -8,19 +8,19 @@
 ---
 
 ## ⚡ About Me
-* 🎓 **Education:** BCA Graduate, currently pursuing a Master of Computer Applications (MCA) at **IMCC Pune**.
-* 💻 **Core Stack:** Java Backend (Core/Advanced, Spring Boot) & React Frontend.
-* 🧠 **Problem Solving:** Consistently practicing Data Structures & Algorithms (DSA) for SDE interviews.
-* 🎯 **Goal:** Building scalable full-stack applications and securing a Software Development Engineer role.
+- 🎓 **Education:** BCA Graduate, currently pursuing MCA at **IMCC Pune**.
+- 💻 **Core Stack:** Java Backend (Core/Advanced, Spring Boot) & React Frontend.
+- 🧠 **Problem Solving:** Practicing Data Structures & Algorithms (DSA) for SDE interviews.
+- 🎯 **Goal:** Build scalable full‑stack applications and secure an SDE role.
 
 ---
 
-## 🛠️ The Tech Arsenal
+## 🛠️ Tech Arsenal
 
 ```text
 Languages           : Java, JavaScript, SQL
-Backend & Frameworks: Core Java, Advanced Java, Spring Boot, RESTful APIs, Hibernate, JDBC
+Backend & Frameworks: Core Java, Advanced Java, Spring Boot, REST APIs, Hibernate, JDBC
 Frontend            : React, HTML5, CSS3
 Build & Management  : Maven, Git, GitHub
-Databases           : MySQL, Relational Database Management
+Databases           : MySQL
 Tools & IDEs        : IntelliJ IDEA, VS Code
