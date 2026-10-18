@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YogeshGawande14/YogeshGawande14/main/profile.png" alt="Portrait of Yogesh Gawande" width="170" />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql&theme=dark&perline=3" alt="Java, Spring Boot and MySQL logos" height="80" />
 
-# Hi, I'm Yogesh Gawande
+# Hi, I'm Yogesh Ganesh Gawande
 
 **Aspiring Software Engineer &nbsp;|&nbsp; Java Backend Developer &nbsp;|&nbsp; DSA Enthusiast**
 
-MCA '28 &nbsp;·&nbsp; BCA '25 &nbsp;·&nbsp; Pune, India
+MCA '27 &nbsp;·&nbsp; BCA '25 &nbsp;·&nbsp; Pune, India
 
 <a href="https://github.com/YogeshGawande14?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub repositories" /></a>
 <a href="mailto:shamgavande1@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email Yogesh" /></a>
