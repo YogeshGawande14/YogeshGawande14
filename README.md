@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/github-banner.svg" alt="Yogesh Gawande - Java Backend Developer banner" width="100%" />
+<img src="https://raw.githubusercontent.com/YogeshGawande14/YogeshGawande14/main/assets/github-banner.svg" alt="Yogesh Gawande - Java Backend Developer banner" width="100%" />
 
 <br/>
 
-<img src="assets/profile.png" alt="Portrait of Yogesh Gawande" width="170" />
+<img src="https://raw.githubusercontent.com/YogeshGawande14/YogeshGawande14/main/assets/profile.png" alt="Portrait of Yogesh Gawande" width="170" />
 
 # Hi, I'm Yogesh Gawande
 
