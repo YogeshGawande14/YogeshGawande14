@@ -1,134 +1,156 @@
-# Yogesh Ganesh Gawande 👋
-### MCA Student | Java Backend Developer in Progress
+<div align="center">
+
+<img src="assets/github-banner.svg" alt="Yogesh Gawande - Java Backend Developer banner" width="100%" />
+
+<br/>
+
+<img src="assets/profile.png" alt="Portrait of Yogesh Gawande" width="170" />
+
+# Hi, I'm Yogesh Gawande
+
+**Aspiring Software Engineer &nbsp;|&nbsp; Java Backend Developer &nbsp;|&nbsp; DSA Enthusiast**
+
+MCA '27 &nbsp;·&nbsp; BCA '25 &nbsp;·&nbsp; Pune, India
+
+<a href="https://github.com/YogeshGawande14?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub repositories" /></a>
+<a href="mailto:shamgavande1@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email Yogesh" /></a>
+<!-- Add LinkedIn when ready:
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" /></a>
+-->
+
+</div>
+
+---
+
+## About Me
+
+I'm an MCA student building a strong foundation in **Java, backend development, and Data Structures & Algorithms**. I learn by building: writing code, solving problems consistently, and turning concepts into working projects.
+
+I care about clean, understandable, maintainable code, and I'm working toward an **SDE-1** role at a product-based company.
+
+## Currently Working On
+
+| Focus | What I'm doing |
+|:--|:--|
+| **Java and DSA** | Practising arrays, strings, two pointers, sliding window, hashing, searching and sorting, and learning through dry runs and complexity analysis |
+| **Backend development** | Learning Spring Boot, REST APIs, and database integration with MySQL |
+| **Tixify** | Building a full-stack ticket-booking project with Java, Spring Boot, React, and MySQL |
+| **Structured learning** | Following a guided program on AccioJob |
+
+## 2026–2027 Goals
+
+- Build strong engineering fundamentals in Java, DSA, and DBMS
+- Complete and document practical backend projects
+- Practise coding problems consistently
+- Prepare for product-based SDE-1 roles
+- Graduate MCA in 2027
+
+---
+
+## Tech Stack
+
+<table>
+<tr>
+<td width="180"><b>Languages</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=java,python,mysql" alt="Java, Python, SQL" />
+</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=spring,maven" alt="Spring Boot, Maven" />
+&nbsp; REST APIs · JDBC
+</td>
+</tr>
+<tr>
+<td><b>Frontend (basics)</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" alt="HTML, CSS, JavaScript, React" />
+</td>
+</tr>
+<tr>
+<td><b>Tools</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode" alt="Git, GitHub, IntelliJ IDEA, VS Code" />
+</td>
+</tr>
+<tr>
+<td><b>Problem solving</b></td>
+<td>Data Structures and Algorithms · Arrays and Strings · Two Pointers · Sliding Window · Hashing · Searching and Sorting</td>
+</tr>
+</table>
+
+**Comfortable with:** Java, SQL, Git/GitHub, OOP
+**Actively learning:** Spring Boot, REST APIs, React, advanced DSA patterns
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Tixify
+**Movie ticket booking application**
+
+A BookMyShow-inspired project for learning full-stack development and booking workflows.
+
+- Backend modules for users, movies, theatres, shows, and bookings
+- REST APIs connecting a React frontend to a Spring Boot backend
+- Database integration with layered architecture
+
+`Java` `Spring Boot` `React` `MySQL`
+
+[View on GitHub](https://github.com/YogeshGawande14?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+### DSA Practice
+**Problem-solving repository**
+
+A learning repository for building problem-solving skills and interview readiness.
+
+- Arrays, strings, searching, sorting, and more
+- Solutions understood through dry runs
+- Time and space complexity analysis
+
+`Java` `DSA`
+
+[View on GitHub](https://github.com/YogeshGawande14?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <em>Learning by building, strengthening problem-solving skills, and growing toward backend software engineering.</em>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YogeshGawande14&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogeshGawande14&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/YogeshGawande14">
-    <img src="https://img.shields.io/badge/GitHub-YogeshGawande14-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Java%20%7C%20DSA%20%7C%20Backend-2F6FEB?style=for-the-badge" alt="Java, DSA and Backend" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YogeshGawande14&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 </p>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 **Education:** BCA Graduate (2025), currently pursuing MCA at IMCC, Pune.
-- 💻 **Core Stack:** Java, Spring Boot, SQL/MySQL, and React fundamentals.
-- 🧠 **Problem Solving:** Practicing Data Structures and Algorithms (DSA) to improve logical thinking and prepare for technical interviews.
-- 🛠️ **Development Interests:** Building practical applications and learning REST APIs and full-stack development.
-- 🎯 **Career Goal:** Become a Java Backend Developer / Software Development Engineer (SDE) and contribute to scalable applications.
-
-I believe in consistent learning, strong fundamentals, clean code, and learning by building.
-
----
-
-## 🛠️ Tech Arsenal
-
-```text
-Languages              : Java, JavaScript, SQL
-Backend & APIs          : Core Java, JDBC, Spring Boot, REST APIs
-Frontend                : HTML, CSS, React
-Database                : MySQL
-Tools & Version Control : Git, GitHub, Maven
-IDEs & Editors          : IntelliJ IDEA, Visual Studio Code
-Core Concepts           : OOP, Data Structures & Algorithms, DBMS
-```
-
----
-
-## 🚀 Featured Projects
-
-### 🎟️ Tixify — Movie Ticket Booking Application
-
-**Tech Stack:** Java · Spring Boot · React · MySQL
-
-A BookMyShow-inspired project focused on learning full-stack application development and ticket-booking workflows.
-
-- Organizing backend modules for users, movies, theatres, shows, and bookings.
-- Learning how REST APIs connect a React frontend with a Spring Boot backend.
-- Practicing database integration and layered application architecture.
-
-**Repository:** [View my GitHub repositories](https://github.com/YogeshGawande14)
-
-### 💡 DSA Practice Repository
-
-**Language:** Java
-
-A learning repository focused on strengthening problem-solving skills and programming fundamentals.
-
-- Practicing arrays, strings, searching, sorting, and other core DSA topics.
-- Understanding solutions through dry runs and time-complexity analysis.
-- Improving logical thinking and interview readiness through consistent practice.
-
-**Repository:** [View my GitHub repositories](https://github.com/YogeshGawande14)
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YogeshGawande14&show_icons=true&rank_icon=github&hide_border=true"
-    alt="Yogesh's GitHub Statistics"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogeshGawande14&layout=compact&hide_border=true"
-    alt="Most Used Languages"
-    height="165"
-  />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YogeshGawande14&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
 </p>
+
+> These cards depend on third-party services, so they may occasionally load slowly or fail.
 
 ---
 
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YogeshGawande14&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
-
----
-
-## 📈 Daily Commit Activity
-
-<p align="center">
-  <a href="https://github.com/YogeshGawande14">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=YogeshGawande14&theme=github-compact&hide_border=true"
-      alt="Daily Commit Activity Graph"
-      width="100%"
-    />
-  </a>
-</p>
-
-If the graph does not load, check whether the [activity graph service](https://github-readme-activity-graph.vercel.app/graph?username=YogeshGawande14&theme=github-compact&hide_border=true) is available. The graph depends on an external service, so its availability is not guaranteed.
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/YogeshGawande14">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:shamgavande1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+## Connect
 
 - **GitHub:** [YogeshGawande14](https://github.com/YogeshGawande14)
 - **Email:** [shamgavande1@gmail.com](mailto:shamgavande1@gmail.com)
-- **LinkedIn:** Add your LinkedIn profile URL.
 
----
-
-<p align="center">
-  <em>Build consistently. Learn deeply. Improve every day.</em>
-</p>
+<div align="center">
+<sub>Build consistently. Learn deeply. Improve every day.</sub>
+</div>
