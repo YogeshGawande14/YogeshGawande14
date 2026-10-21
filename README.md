@@ -33,13 +33,13 @@ I care about clean, understandable, maintainable code, and I'm working toward an
 | **Tixify** | Building a full-stack ticket-booking project with Java, Spring Boot, React, and MySQL |
 | **Structured learning** | Following a guided program on AccioJob |
 
-## 2026–2027 Goals
+## 2026–2028 Goals
 
 - Build strong engineering fundamentals in Java, DSA, and DBMS
 - Complete and document practical backend projects
 - Practise coding problems consistently
 - Prepare for product-based SDE-1 roles
-- Graduate MCA in 2027
+- Graduate MCA in 2028
 
 ---
 
