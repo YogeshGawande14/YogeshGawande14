@@ -6,7 +6,7 @@
 
 **Aspiring Software Engineer &nbsp;|&nbsp; Java Backend Developer &nbsp;|&nbsp; DSA Enthusiast**
 
-MCA '27 &nbsp;·&nbsp; BCA '25 &nbsp;·&nbsp; Pune, India
+MCA '28 &nbsp;·&nbsp; BCA '25 &nbsp;·&nbsp; Pune, India
 
 <a href="https://github.com/YogeshGawande14?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub repositories" /></a>
 <a href="mailto:shamgavande1@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email Yogesh" /></a>
