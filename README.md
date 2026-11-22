@@ -28,11 +28,11 @@ I care about clean, understandable, maintainable code, and I'm working toward an
 
 | Focus | What I'm doing |
 |:--|:--|
-| **Java and DSA** | Practising arrays, strings, two pointers, sliding window, hashing, searching and sorting, and learning through dry runs and complexity analysis |
+| **Java and DSA** | Practising arrays, strings, two pointers, sliding window, hashing, searching and sorting, with dry runs and complexity analysis |
 | **Backend development** | Learning Spring Boot, REST APIs, and database integration with MySQL |
-| **Tixify** | Building a full-stack ticket-booking project with Java, Spring Boot, React, and MySQL |
-| **Structured learning** | Following a guided program on AccioJob |
-
+| **Tixify** | Building a ticket-booking application using Java, Spring Boot, React, and MySQL |
+| **SplitNodes** | Developing a shared expense manager for flatmates to track expenses, split bills, and manage settlements |
+| **ShetBandhu** | Building an AgriTech platform connecting farmers with agricultural products, fertilizer shops, and local agricultural services |
 ## 2026–2028 Goals
 
 - Build strong engineering fundamentals in Java, DSA, and DBMS
